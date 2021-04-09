@@ -1,7 +1,7 @@
 # Hi there, I'm [Yichen](http://yichen.co.uk) 👋
 
 ## I'm a Developer, Casual Gamer!
-- 🔭 I’m currently working as Software Engineer in J.P.Morgan Chase!
+- 🔭 I’m currently working as Software Engineer at J.P.Morgan Chase!
 - 🌱 I’m currently learning financial mathematics
 - 🏫 Graduated Imperial College London '17
 - ☕ Low-key coffee addict
