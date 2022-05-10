@@ -1,19 +1,18 @@
 # Hi there, I'm [Yichen](http://yichen.co.uk) 👋
 
 ## I'm a Developer, Casual Gamer!
-- 🔭 I’m working as Software Engineer!
+- 🔭 I’m working as a Software Engineer at Amazon!
 - 🌱 I’m currently learning financial mathematics
 - 🏫 Graduated Imperial College London '17
 - ☕ Low-key coffee addict
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with SwiftUI
-- 🥅 2021 Goals: Release an iOS app on the App Store!
-- ⚡ Fun fact: my profile pic is my dog whose name is Dick
+- 🥅 2022 Goals: Release an iOS app on the App Store!
 - 😄 Pronouns: she/her
 
 ## Connect with me:
 
-[<img align="left" alt="davidvu.co.uk" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://yichen.co.uk)
+[<img align="left" alt="yichen.co.uk" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://yichen.co.uk)
 [<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/DavidVu96/devicon/master/icons/twitter/twitter-original.svg" />](https://twitter.com/yichen_96)
 [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/DavidVu96/devicon/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yichen-liu-b2ba6a38/)
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/yichen.96/)
