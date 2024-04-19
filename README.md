@@ -7,8 +7,10 @@
 - ☕ Low-key coffee addict
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with SwiftUI
-- 🥅 2022 Goals: Release an iOS app on the App Store!
+- 🥅 2025 Goals: Release an iOS app on the App Store!
 - 😄 Pronouns: she/her
+- 📖 Publication: Projected distances to host galaxy reduce SNIa dispersion. *Ryley Hill et al.*; [Monthly Notices of the Royal Astronomical Society, Volume 481, Issue 2, 1 December 2018, Pages 2766–2777.](https://doi.org/10.1093/mnras/sty2510)
+)
 
 ## Connect with me:
 
